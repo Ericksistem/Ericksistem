@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! 👋 Soy un programador mobile con más de 6 años de experiencia, especializado en el desarrollo de aplicaciones Android e iOS. También tengo sólidos conocimientos en React, lo que me permite trabajar en soluciones multiplataforma. Soy un entusiasta de la tecnología, apasionado por aprender constantemente y enfrentar desafíos técnicos complejos.<br><br>Me encanta explorar nuevas herramientas y mejorar mis habilidades en el desarrollo de software, siempre buscando soluciones innovadoras y eficientes. Si te interesa colaborar o tienes algún proyecto emocionante en mente, no dudes en contactarme.
+Hola! 👋 Soy un programador mobile con más de 8 años de experiencia, especializado en el desarrollo de aplicaciones Android e iOS. También tengo sólidos conocimientos en React, lo que me permite trabajar en soluciones multiplataforma. Soy un entusiasta de la tecnología, apasionado por aprender constantemente y enfrentar desafíos técnicos complejos.<br><br>Me encanta explorar nuevas herramientas y mejorar mis habilidades en el desarrollo de software, siempre buscando soluciones innovadoras y eficientes. Si te interesa colaborar o tienes algún proyecto emocionante en mente, no dudes en contactarme.
 
 
 ## 🌐 Socials:
