@@ -2,17 +2,34 @@
 
 Software Engineer especializado en desarrollo mobile (Android & iOS) con +8 años de experiencia construyendo aplicaciones escalables y orientadas a negocio.
 
-He trabajado en el diseño e implementación de soluciones tanto nativas como multiplataforma (React / React Native), integrando servicios backend, optimizando rendimiento y asegurando buenas prácticas de arquitectura.
+Cuento con experiencia sólida en desarrollo frontend y multiplataforma utilizando React, React Native y frameworks modernos como Next.js y Vite, trabajando con TypeScript y JavaScript para construir interfaces eficientes y mantenibles.
 
-Actualmente también me desempeño como Fullstack Developer, participando en decisiones técnicas, estructuración de proyectos y consumo de APIs, con enfoque en mantenibilidad y escalabilidad.
+He participado en la estructuración de proyectos desde cero, aplicando buenas prácticas de arquitectura, diseño de flujos de usuario (UX/UI) y optimización de rendimiento en aplicaciones móviles y web.
 
-Me interesa especialmente:
-- Arquitectura de software (clean architecture, MVVM, modularización)
-- Optimización de performance en apps móviles
-- Integración de servicios y diseño de APIs
-- Escalar productos digitales con impacto real en negocio
+También tengo experiencia en prácticas DevOps, automatización de procesos y despliegue de aplicaciones, así como en el diseño de diagramas de flujo y documentación técnica para mejorar la comunicación entre equipos.
 
-Busco colaborar en proyectos donde pueda aportar no solo código, sino criterio técnico y visión de producto.
+Me enfoco en desarrollar soluciones escalables, mantenibles y alineadas a objetivos de negocio, aportando no solo a nivel técnico, sino también en la toma de decisiones dentro del desarrollo de productos.
+
+## 🚀 Technical Expertise
+
+**Frontend & Mobile**
+- React, React Native, Next.js, Vite
+- TypeScript, JavaScript
+- Desarrollo de interfaces optimizadas y mantenibles
+
+**Arquitectura & Buenas Prácticas**
+- Clean Architecture, MVVM
+- Modularización y escalabilidad de aplicaciones
+- Diseño de flujos y documentación técnica
+
+**DevOps & Entrega Continua**
+- Automatización de builds y despliegues
+- Integración de servicios y APIs
+- Control de versiones y flujos de trabajo con Git
+
+**UX/UI & Producto**
+- Diseño de experiencias centradas en usuario
+- Optimización de flujos de navegación
 
 
 ## 🌐 Socials:
