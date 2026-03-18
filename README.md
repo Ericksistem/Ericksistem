@@ -1,5 +1,18 @@
-# 💫 About Me:
-Hola! 👋 Soy un programador mobile con más de 8 años de experiencia, especializado en el desarrollo de aplicaciones Android e iOS. También tengo sólidos conocimientos en React, lo que me permite trabajar en soluciones multiplataforma. Soy un entusiasta de la tecnología, apasionado por aprender constantemente y enfrentar desafíos técnicos complejos.<br><br>Me encanta explorar nuevas herramientas y mejorar mis habilidades en el desarrollo de software, siempre buscando soluciones innovadoras y eficientes. Si te interesa colaborar o tienes algún proyecto emocionante en mente, no dudes en contactarme.
+# 💫 About Me
+
+Software Engineer especializado en desarrollo mobile (Android & iOS) con +8 años de experiencia construyendo aplicaciones escalables y orientadas a negocio.
+
+He trabajado en el diseño e implementación de soluciones tanto nativas como multiplataforma (React / React Native), integrando servicios backend, optimizando rendimiento y asegurando buenas prácticas de arquitectura.
+
+Actualmente también me desempeño como Fullstack Developer, participando en decisiones técnicas, estructuración de proyectos y consumo de APIs, con enfoque en mantenibilidad y escalabilidad.
+
+Me interesa especialmente:
+- Arquitectura de software (clean architecture, MVVM, modularización)
+- Optimización de performance en apps móviles
+- Integración de servicios y diseño de APIs
+- Escalar productos digitales con impacto real en negocio
+
+Busco colaborar en proyectos donde pueda aportar no solo código, sino criterio técnico y visión de producto.
 
 
 ## 🌐 Socials:
